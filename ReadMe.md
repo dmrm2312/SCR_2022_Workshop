@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 
 ## How to Run
-- Run.py has an example of how to run it
+- woodbot_run.py has an example of how to run it
 - You can pick one of input options: FileInput, KeyboardInput, or JoystickInput
 - You can have outputs as you want: FileOutput
 - You can add as many robot as you want: KinematicsModel, WebotsModel, NOPModel
