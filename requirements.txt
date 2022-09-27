@@ -18,3 +18,5 @@ pycreate2
 pyrealsense2
 unyt
 scipy
+socket
+easygui
