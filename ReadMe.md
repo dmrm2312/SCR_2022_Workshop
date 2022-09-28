@@ -21,6 +21,10 @@ pip install -r requirements.txt
 - You can add as many robot as you want for simulations: KinematicsModel, WebotsModel, NOPModel
 - If you use FileOutput, you can reproduce the result with FileInput
 
+## How Paper Cars
+- ESPCODE folder has the Arudino IDE Code for the Adafruit Feather board
+- You will need to input the router information and maybe the motor polarity by changing the drive function
+- This software works in in tandem with the woodbot_run.py program
 
 ## Notes
 - Input space
